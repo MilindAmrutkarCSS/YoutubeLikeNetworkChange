@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YoutubeLikeNetworkChange</string>
+    <string name="we_are_back">Back Online</string>
+    <string name="cannot_connect">No Connection</string>
+</resources>
